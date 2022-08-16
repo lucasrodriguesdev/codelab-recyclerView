@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Afirmacoes</string>
+    <string name="affirmation1">Já ouviu aquela frase: o que é seu tá guardado? Pois bem, agora procure o mapa do esconderijo..</string>
+    <string name="affirmation2">O importante não é ganhar, o que importa é competir sem perder, nem empatar.</string>
+    <string name="affirmation3">Sacode a poeira e dá a volta por cima! Só tome cuidado com a rinite.</string>
+    <string name="affirmation4">Pegue os limões que a vida te dá e faça uma bela caipirinha.</string>
+    <string name="affirmation5">Pense como um boleto. Um boleto sempre vence!</string>
+    <string name="affirmation6">Se a sua barriga não quer ficar chapada, fique você.</string>
+    <string name="affirmation7">Se pizza que vem de moto demora, imagine quanto tempo seus sonhos vão demorar pra chegar se você não sair do lugar!</string>
+    <string name="affirmation8">Assim como você conquista os crushes, você pode conquistar todos os seus sonhos!</string>
+    <string name="affirmation9">Deixe seus medos tão assustados quanto você, quando abre a fatura do seu cartão!</string>
+    <string name="affirmation10">Prepare-se para alcançar as suas metas com a mesma empolgação que você se arruma para ir na balada.</string>
 </resources>
